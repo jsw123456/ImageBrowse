@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyPhotoTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+    </style>
+</resources>
